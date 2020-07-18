@@ -1,7 +1,7 @@
 # Memory game
 *Project done during the OpenClassRoom course: Build a web application with React.js*
 
-[https://react-ocr.lionel-bonzoumet.fr/](https://react-ocr.lionel-bonzoumet.fr/)
+[https://memory.lionel-bonzoumet.fr/](https://memory.lionel-bonzoumet.fr/)
 
 
 
